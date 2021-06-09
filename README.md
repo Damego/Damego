@@ -11,5 +11,5 @@
 </a>
   
 <b>My stats</b>
-[Damego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damego)]
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damego)]
+[Damego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damego)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damego)
