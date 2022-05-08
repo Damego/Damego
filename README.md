@@ -21,5 +21,5 @@
   
 <h3 class="center">Stats 📊</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damego&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Damego's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Damego&show_icons=true&include_all_commits=true&theme=default" alt="Damego's github stats" />
 </a>
