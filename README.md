@@ -1,5 +1,5 @@
 <h1>Hello there! Welcome to my GitHub profile</h1>
-<h4><i>About me: </i> 18 y.o noob python developer😆</h4>
+<h4><i>About me: </i> 19 y.o noob python developer😆</h4>
 
 <h3>Social</h3>
 <a href="https://discordapp.com/users/%E2%80%8B143773579320754177">
