@@ -18,8 +18,11 @@ I'm 19 year old student who likes programming.
 ### Other projects
 - [anilibria.py](https://github.com/Damego/anilibria.py) - python async API wrapper for anilibria.tv
 
-
 ## Github Statistics
 
 ![gh-stats](https://raw.githubusercontent.com/Damego/github-stats/master/generated/overview.svg)
 ![gh-stats](https://raw.githubusercontent.com/Damego/github-stats/master/generated/languages.svg)
+
+### 👀
+
+![profile visits](https://komarev.com/ghpvc/?username=Damego&color=blue)
