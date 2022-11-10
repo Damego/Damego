@@ -11,7 +11,7 @@ I'm 19 year old student who likes programming.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=library&show_owner=true)](https://github.com/interactions-py/library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=lavalink)](https://github.com/interactions-py/lavalink)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=Asteroid-Discord-Bot)](https://github.com/interactions-py/library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=Asteroid-Discord-Bot)](https://github.com/Damego/Asteroid-Discord-Bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=ETIS-mobile)](https://github.com/Damego/ETIS-mobile)
 
