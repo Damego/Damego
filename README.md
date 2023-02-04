@@ -10,8 +10,6 @@ I'm 19 year old student who likes programming.
 ## Current projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=library&show_owner=true)](https://github.com/interactions-py/library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=anilibria.py)](https://github.com/Damego/anilibria.py)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=interactions-i18n)](https://github.com/Damego/interactions-i18n)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=ETIS-mobile)](https://github.com/Damego/ETIS-mobile)
 
 ### Other projects
