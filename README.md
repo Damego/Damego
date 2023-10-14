@@ -1,10 +1,9 @@
 # Hello there 👋
 
-I'm 19 year old student who likes programming.
+I'm 20 year old student who likes programming.
 
 - Pronouns: He/Him
-- Python developer
-- Learning JavaScript
+- Python & Javascript developer
 - Core developer at [interactions.py](https://github.com/interactions-py/library)
 
 ## Current projects
