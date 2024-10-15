@@ -2,10 +2,14 @@
 
 I'm 21 year old student who likes programming.
 
-- Pronouns: He/Him
-- Python & TypeScript developer
+## Skills
 
-[![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=python,fastapi,typescript,react,node.js,docker,mongodb,postgresql)
+### Backend
+![Backend](https://simpleskill.icons.workers.dev/svg?i=python,fastapi,docker,mongodb,postgresql)
+
+### Frontend
+
+![Frontend](https://simpleskill.icons.workers.dev/svg?i=node.js,typescript,react)
 
 ## Active projects
 
@@ -18,6 +22,7 @@ I'm 21 year old student who likes programming.
 
 ### Previous projects
 - Core developer at [interactions.py](https://github.com/interactions-py/library)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=library&show_owner=true)](https://github.com/interactions-py/library)
 
 - [Asteroid Bot](https://github.com/Damego/Asteroid-Discord-Bot) - Discord bot written on discord.py + [modified discord-py-interactions](https://github.com/Damego/discord-py-interactions)
