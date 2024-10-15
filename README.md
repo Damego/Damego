@@ -1,18 +1,26 @@
 # Hello there 👋
 
-I'm 20 year old student who likes programming.
+I'm 21 year old student who likes programming.
 
 - Pronouns: He/Him
-- Python & Javascript developer
-- Core developer at [interactions.py](https://github.com/interactions-py/library)
+- Python & TypeScript developer
 
-## Current projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=library&show_owner=true)](https://github.com/interactions-py/library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=anilibria.py)](https://github.com/Damego/anilibria.py)
+[![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=python,fastapi,typescript,react,node.js,docker,mongodb,postgresql)
+
+## Active projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=ETIS-mobile)](https://github.com/Damego/ETIS-mobile)
 
-### Other projects
-- [Asteroid Bot](https://github.com/Damego/Asteroid-Discord-Bot) - Discord bot written on discord.py + [custom discord-py-interactions](https://github.com/Damego/discord-py-interactions)
+## Mostly for portfolio
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damego&repo=anilibria.py)](https://github.com/Damego/anilibria.py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psu-psychosupport&repo=backend&show_owner=true)](https://github.com/psu-psychosupport/backend)
+
+### Previous projects
+- Core developer at [interactions.py](https://github.com/interactions-py/library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=library&show_owner=true)](https://github.com/interactions-py/library)
+
+- [Asteroid Bot](https://github.com/Damego/Asteroid-Discord-Bot) - Discord bot written on discord.py + [modified discord-py-interactions](https://github.com/Damego/discord-py-interactions)
 
 ## Github Statistics
 
