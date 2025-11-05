@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm 21 year old student who likes programming.
+I'm 22 year old student who likes programming.
 
 ## Skills
 
